@@ -1,2 +1,2 @@
 # rockpaperscissors-app
-HTML &amp; CSS
+HTML &amp; CSS & JS
