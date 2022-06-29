@@ -55,3 +55,7 @@ else {
         }
     }
 }
+
+    document.getElementById("your-score").innerText = yourScore;
+    document.getElementById("opponent-score").innerText = opponentScore;
+}
