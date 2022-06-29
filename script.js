@@ -7,8 +7,10 @@ var choices = ["rock", "paper", "scissors"];
 
 window.onload = function() {
     for (let i = 0; i < 3; i++) {
-    // img id="rock"
+    // <img id="rock" src="rock.png">
     let choice = document.createElement("img");
     choice.id = choices[i];
+    choices.src = choices[i] + ".png";
+    document.getElementById("choices").append(choice);
     }
    }
