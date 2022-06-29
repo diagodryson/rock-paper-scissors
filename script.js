@@ -42,4 +42,16 @@ else {
         if (opponent == "paper") {
             yourScore += 1;
         }
+        else if (opponent == "rock") {
+            opponentScore += 1;
+        }
+    }
+    else if (you == "paper") {
+        if (opponent == "rock") {
+            yourScore += 1;
+        }
+        else if (opponent == "scissors") {
+            opponentScore += 1;
+        }
+    }
 }
