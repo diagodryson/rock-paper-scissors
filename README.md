@@ -19,8 +19,8 @@ The sections headers will be used to reference location of destination.
 
 I created a Rock Papers Scissors
 
-BLUE = your choice 
-RED = opponent choice
+- BLUE = your choice 
+- RED = opponent choice
 
 #### Technologies
 
